@@ -10,6 +10,7 @@
   "dependencies": {
     "@capacitor/cli": "^1.0.0-beta.19",
     "@capacitor/core": "^1.0.0-beta.19",
+    "@capacitor/ios": "^1.0.0-beta.19",
     "core-js": "^2.6.5",
     "vue": "^2.6.6"
   },

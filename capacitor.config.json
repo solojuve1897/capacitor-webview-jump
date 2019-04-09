@@ -1,0 +1,6 @@
+{
+  "appId": "capacitor.webview.jump",
+  "appName": "Capacitor Webview Jump",
+  "bundledWebRuntime": false,
+  "webDir": "dist"
+}

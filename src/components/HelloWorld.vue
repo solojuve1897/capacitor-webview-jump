@@ -1,64 +1,68 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
-    <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
-    </p>
-    <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
-    </p>
-    <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
-    </p>
-    <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
-    </p>
-    <p>
+    <div style="position:fixed; top: 0; padding-top:40px; width: 100%; background: rgb(132, 132, 132);">
+      <button>Take focus</button>
+    </div>
+    <div style="margin-bottom:40px; margin-top:70px; height:100%; width:100%; overflow-y: auto;">
+      <p>
+        For a guide and recipes on how to configure / customize this project,<br>
+        check out the
+        <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      </p>
+      <p>
+        For a guide and recipes on how to configure / customize this project,<br>
+        check out the
+        <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      </p>
+      <p>
+        For a guide and recipes on how to configure / customize this project,<br>
+        check out the
+        <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      </p>
+      <p>
+        For a guide and recipes on how to configure / customize this project,<br>
+        check out the
+        <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      </p>
+      <p>
+        For a guide and recipes on how to configure / customize this project,<br>
+        check out the
+        <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      </p>
+      <p>
+        For a guide and recipes on how to configure / customize this project,<br>
+        check out the
+        <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      </p>
+      <p>
+        For a guide and recipes on how to configure / customize this project,<br>
+        check out the
+        <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      </p>
+      <p>
+        For a guide and recipes on how to configure / customize this project,<br>
+        check out the
+        <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      </p>
+      <p>
+        For a guide and recipes on how to configure / customize this project,<br>
+        check out the
+        <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      </p>
+      <p>
+        For a guide and recipes on how to configure / customize this project,<br>
+        check out the
+        <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      </p>
+      <p>
+        For a guide and recipes on how to configure / customize this project,<br>
+        check out the
+        <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      </p>
+    </div>
+    <div style="position:fixed; bottom: 0; width: 100%; background: rgb(132, 132, 132);">
       <input/>
-    </p>
-    <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
-    </p>
-    <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
-    </p>
-    <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
-    </p>
-    <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
-    </p>
-    <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
-    </p>
-    <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
-    </p>
-    <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
-    </p>
+    </div>
   </div>
 </template>
 
